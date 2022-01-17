@@ -1,0 +1,5 @@
+alias ls="exa --icons"
+alias ll="ls -la"
+alias chown="chown -R"
+alias tomcaton="startup.sh"
+alias tomcatoff="shutdown.sh"
