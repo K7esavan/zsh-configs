@@ -1,7 +1,7 @@
 export ZDOTDIR=$HOME/.config/zsh_configs
 
 # Variables
-source $ZDOTDIR/variables.zsh
+# source $ZDOTDIR/variables.zsh
 
 source $ZDOTDIR/chriszshrc.zsh
 # Prompt
